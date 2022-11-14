@@ -1,10 +1,8 @@
 {
   "expo": {
-    "name": "project-daily-diet",
-    "slug": "project-daily-diet",
+    "name": "DailyDiet",
+    "slug": "DailyDiet",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
